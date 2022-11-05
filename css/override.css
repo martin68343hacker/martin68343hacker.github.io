@@ -8,6 +8,11 @@ hr {
   display: flex;
 }
 
+body {
+  background-color: #111111;
+  color: #ffffff
+}
+
 .post_navi-label {
   font-size: 0.8em;
   opacity: 0.5;
